@@ -1,0 +1,11 @@
+.grandpa,
+.grand-child {
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.grand-child {
+  display: flex;
+  gap: 10px;
+}
